@@ -1,3 +1,3 @@
-module github.com/Gui-robot46/go-course
+module hello-world
 
 go 1.22.1
